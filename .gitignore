@@ -1,3 +1,10 @@
+# big datasets
+*.csv
+
+# xml's
+*.xml
+*.iml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
